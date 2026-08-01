@@ -87,20 +87,6 @@ Overall, the models demonstrated modest predictive performance, reflecting the c
 
 ---
 
-## 💻 Skills Demonstrated
-
-- Data Cleaning & Wrangling
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Feature Selection
-- Data Preprocessing
-- Supervised Machine Learning
-- Classification Model Comparison
-- Model Evaluation
-- Healthcare Data Analytics
-
----
-
 ## 🚀 Project Impact
 The analysis provides insights into genetic disorder patterns while illustrating the application of predictive analytics to support clinical risk stratification and evidence-based healthcare decision-making.
 
